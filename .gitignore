@@ -1,0 +1,21 @@
+
+.ipynb_checkpoints/
+
+# Environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Data 
+data/*.csv
+data/
+
+# Models
+models/*.joblib
+
+# VS Code settings
+.vscode/
